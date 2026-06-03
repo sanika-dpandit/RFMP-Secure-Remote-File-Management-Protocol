@@ -24,21 +24,17 @@ A secure Remote File Management Protocol (RFMP) developed using Python and C as 
 * C Programming
 
 ## Project Structure
+Repository structure:
 
 RFMP-Secure-File-Management-Protocol/
-
-├── python/
-│   ├── server.py
-│   └── client.py
-
-├── c_client/
-│   └── client.c
-
-├── docs/
-
-├── screenshots/
-
-└── README.md
+python/
+server.py
+client.py
+c_client/
+client.c
+docs/
+screenshots/
+README.md
 
 ## Team Project
 
