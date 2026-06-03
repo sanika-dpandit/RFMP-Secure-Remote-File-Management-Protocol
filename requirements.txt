@@ -1,1 +1,6 @@
+# Cryptography library used for:
+# - RSA key generation
+# - RSA session key encryption/decryption
+# - AES encryption/decryption
 
+pycryptodome==3.23.0
